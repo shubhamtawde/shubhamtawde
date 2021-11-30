@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="30px">, I'm Shubham Tawde</h1>
+<h1 align="center">Hi, I'm Shubham Tawde</h1>
 
 <p align="center">
   <a href="https://twitter.com/shubham_tawde"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -13,8 +13,6 @@
 - 👋 Hi, I’m @shubhamtawde
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 shubhamtawde/shubhamtawde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
