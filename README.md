@@ -9,10 +9,10 @@
   <a href="https://www.hackerrank.com/shubham_tawde"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
 
-### I'm a passionate programmer and graduated in B.Tech from K. J. Somaiya College of Engineering. Currently working as an Associate Consultant at Oracle Financial Services Software Ltd.
+### I'm a passionate programmer and graduated in B.Tech from K. J. Somaiya College of Engineering. Previously worked at Oracle Financial Services Software Ltd. as an Associate Consultant. Currently pursuing my Master of Science in Information Systems at Northeastern University (Fall 2022)
 - 👋 Hi, I’m @shubhamtawde
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently studying Masters in Information Systems at Northeastern University
 
 <!---
 shubhamtawde/shubhamtawde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
