@@ -9,7 +9,7 @@
   <a href="https://www.hackerrank.com/shubham_tawde"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
 
-### I'm a passionate programmer currently pursuing my Masters in Information Systems at Northeastern University (Fall 2022) and graduated in B.Tech from K. J. Somaiya College of Engineering. Previously worked at Oracle Financial Services Software Ltd. as an Associate Consultant. 
+### I'm a passionate programmer currently pursuing my Masters in Information Systems at Northeastern University (Fall 2022) and graduated in B.Tech from K. J. Somaiya College of Engineering. Previously worked at Fidelity Invesments as a Software Engineer. 
 - 👋 Hi, I’m @shubhamtawde
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently studying Masters in Information Systems at Northeastern University
